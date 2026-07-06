@@ -24,9 +24,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: **ronakupadheyay@gmail.com**
-- 💼 LinkedIn: *https://www.linkedin.com/in/ronak-upadheyay-731106407/*
-- 💻 GitHub: https://github.com/Ronak-Upadheyay
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-upadheyay-731106407/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronakupadheyay@gmail.com) 
 
 ---
 
