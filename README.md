@@ -2,7 +2,7 @@
 
 🎓 Computer Science Undergraduate (2023–2027)  
 💻 Full Stack Developer | 🤖 AI/ML Engineer   
-🚀 Passionate about building scalable web applications and intelligent solutions that solve real-world problems.## 
+🚀 Passionate about building scalable web applications and intelligent solutions that solve real-world problems.
 
 📫 Connect With Me
 
